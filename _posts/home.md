@@ -1,6 +1,8 @@
 ---
-title: Home
+title: Home Village
 date: 2026-08-09
+categories: [Home Village]
+tags: [Guide]
 ---
 
 # Puzzle Wizards Wiki
