@@ -24,7 +24,6 @@ description: >- # used by seo meta and the atom feed
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://teelowah.github.io"
-baseurl: "/puzzle-wizards-wiki"
 
 # github:
 #username: github_username # change to your GitHub username
@@ -42,7 +41,7 @@ social:
     # The first element serves as the copyright owner's link
     # Uncomment below to add more social links
     # - https://twitter.com/username # change to your Twitter homepage
-    - https://teelowah.github.io/puzzle-wizards-wiki/ # change to your GitHub homepage
+    - https://teelowah.github.io/ # change to your GitHub homepage
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
