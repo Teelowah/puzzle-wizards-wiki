@@ -13,7 +13,10 @@ Objective:
 Boulder types:
 - 'Sleeping' boulder: Boulder that needs one clear next to them to be woken
 - Regular boulders: Grey colour
+![Regular Boulder](/assets/img/lode_puzzle.jpg)
+
 - 'Strong' boulders: Must be broken by matching pieces with a smiley face
+![Strong Boulder](/assets/img/lode_hard_puzzle.jpg)
 
 Rewards:
 - Resources (ex. Stone, Iron, Minerals)
