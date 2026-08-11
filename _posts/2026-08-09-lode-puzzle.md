@@ -22,3 +22,6 @@ Rewards:
 - Resources (ex. Stone, Iron, Minerals)
 - Dungeon pieces (ex. Shards, Keys)
 
+> If you are getting stumped, look for the wand to get some hints!
+{: .prompt-tip }
+
