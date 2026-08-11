@@ -2,7 +2,7 @@
 title: Building Materials
 date: 2026-08-09
 categories: [Items]
-tags: [Info]
+tags: [Knowledge]
 ---
 
 There are multiple different building materials used to upgrade buildings.
