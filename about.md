@@ -15,7 +15,7 @@ Hopefully you find this guide useful and go support the devs by downloading and 
 ## Recommended Posts:
 
 <div class="suggested-posts">
-  {% assign suggested_paths = "_posts/2026-08-09-home.md|_posts/2026-08-09-guilds.md|_posts/2026-08-09-lodes.md" | split: "|" %}
+  {% assign suggested_paths = "_posts/2026-08-09-home.md|_posts/2026-08-09-guilds.md|" | split: "|" %}
   {% for path in suggested_paths %}
     {% assign post = site.posts | where: "path", path | first %}
     {% if post %}
