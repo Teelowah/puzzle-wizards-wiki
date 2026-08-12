@@ -7,10 +7,10 @@ tags: [Knowledge]
 
 The goal of the Lode Puzzle is to form lines of 3 or more pieces around boulders.
 
-Objective:
+### Objective:
 - Break the boulder by matching pieces around all of the sides
 
-Boulder types:
+### Boulder Types:
 - 'Sleeping' boulder: Boulder that needs one clear next to them to be woken
 - Regular boulders: Grey colour
 ![Regular Boulder](/assets/img/lode_puzzle.jpg)
@@ -18,10 +18,14 @@ Boulder types:
 - 'Strong' boulders: Must be broken by matching pieces with a smiley face
 ![Strong Boulder](/assets/img/lode_hard_puzzle.jpg)
 
-Rewards:
+### Smiley Face Pieces:
+- Matching 4 pieces will yield a smiley face piece that explodes and takes out nearby pieces when matched
+- Matching 5 pieces will yield a smiley face piece that explodes and takes out pieces in the same row and column when matched
+
+### Rewards:
 - Resources (ex. Stone, Iron, Minerals)
 - Dungeon pieces (ex. Shards, Keys)
 
-> If you are getting stumped, look for the wand to get some hints!
+> Don't be afraid to use hints if you are getting stuck!
 {: .prompt-tip }
 
