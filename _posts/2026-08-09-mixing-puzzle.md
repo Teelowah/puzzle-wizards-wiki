@@ -1,5 +1,5 @@
 ---
-title: Lode Puzzle
+title: Mixing Puzzle
 date: 2026-08-09
 categories: [Puzzles]
 tags: [Knowledge]
