@@ -1,0 +1,39 @@
+.suggested-posts {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin-top: 1.5rem;
+
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.suggested-post-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  text-decoration: none;
+  color: var(--text-color);
+  transition:
+    box-shadow 0.2s ease,
+    transform 0.2s ease;
+
+  &:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    transform: translateY(-2px);
+    color: var(--text-color);
+  }
+}
+
+.suggested-post-title {
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+}
+
+.suggested-post-desc {
+  font-size: 0.85rem;
+  color: var(--text-muted-color);
+}
