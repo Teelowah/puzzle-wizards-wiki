@@ -5,6 +5,7 @@ title: Home
 permalink: /
 ---
 
+![Puzzle Wizards Banner](assets/img/pw_banner.jpg)
 
 Welcome to my puzzle wizards wiki where you can find useful information on several aspects of the game!
 
