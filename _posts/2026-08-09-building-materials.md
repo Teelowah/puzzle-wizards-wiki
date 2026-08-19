@@ -6,7 +6,7 @@ tags: [Knowledge]
 ---
 
 There are multiple different building materials used to upgrade buildings.
-![Building Materials](/assets/img/building-materials.png)
+![Building Materials]({{ '/assets/img/building-materials.png' |relative_url }})
 
 - **Brick**
 - **Thatch**
