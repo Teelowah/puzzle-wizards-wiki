@@ -6,10 +6,12 @@ tags: [Knowledge]
 ---
 
 There are multiple different building materials used to upgrade buildings.
-- Brick
-- Thatch
-- Tile
-- Timber
+![Building Materials](/assets/img/building-materials.png)
+
+- **Brick**
+- **Thatch**
+- **Tile**
+- **Timber**
 
 Each material has 3 levels regular, prize, and magic. Each level requires one material of the previous level to mix.
 
