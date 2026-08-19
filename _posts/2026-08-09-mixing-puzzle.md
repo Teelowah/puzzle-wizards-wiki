@@ -7,7 +7,7 @@ tags: [Knowledge]
 
 Mixing puzzles appear when mixing recipes or completing the Rite of Clearing on adventures.
 
-![Mixing Battle]({{ '/assets/img/pw_battle.jpg' | relative_url }})
+![Mixing Battle](/assets/img/pw_battle.jpg)
 
 ### Gameplay:
 - Clear out all of the ingredients by combining pieces to form lines.
